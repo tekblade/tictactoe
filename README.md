@@ -1,3 +1,4 @@
+# ReactJS tic tac toe game
 # To run this application you need to do following steps:
 ### You need to have node.js installed
 ### npx create-react-app my-app
