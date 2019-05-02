@@ -6,6 +6,7 @@
 ### copy my files to my-app/src/
 ### type cd my-app
 ### type npm start
+### then go in the browser to localhost:3000
 
 # Part of the html and css code comes from <a href="https://reactjs.org/tutorial/tutorial.html">HERE</a>
 
