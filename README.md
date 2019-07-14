@@ -7,6 +7,7 @@
 ### type cd my-app
 ### type npm start
 ### then go in the browser to localhost:3000
+### I've used chrome browser
 
 # Part of the html and css code comes from <a href="https://reactjs.org/tutorial/tutorial.html">HERE</a>
 
